@@ -1,3 +1,3 @@
-# STEIN project
+# GREAT project
 
-Extensão para dispositivos IoT de até 7,5W, permitindo que estes sejam carragados via WPT padrão Qi.
+Extension for IoT devices up to 7.5W, allowing them to be charged via WPT.
